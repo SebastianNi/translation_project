@@ -19,7 +19,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ### Run
 
-In order to run the code in the jupyter notebook you also need the file [**helper.py**](https://github.com/udacity/deep-learning/blob/master/language-translation/helper.py) and [**problem_unittests.py**](https://github.com/udacity/deep-learning/blob/master/language-translation/problem_unittests.py) from the [Udacity project repository](https://github.com/udacity/deep-learning/tree/master/language-translation).
+In order to run the code in the jupyter notebook you also need the file [**helper.py**](https://github.com/udacity/deep-learning/blob/master/language-translation/helper.py) and [**problem_unittests.py**](https://github.com/udacity/deep-learning/blob/master/language-translation/problem_unittests.py) as well as the [small vocabulary dataset](https://github.com/udacity/deep-learning/tree/master/language-translation/data) from the [Udacity project repository](https://github.com/udacity/deep-learning/tree/master/language-translation).
 
 Load the file with jupyter notebook using the following command:
 
